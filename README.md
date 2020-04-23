@@ -1,6 +1,22 @@
-# Проект валидации Яндекс.Практикум
-version v0.0.4
+# Regexp-validation
+Regexp-validation is client **registration form** with validation via regular expressions.
+
+Version v1.0.0
+
 ## About
-Форма регистрации с полями Имя, E-mail, Телефон и поле для сайта, проверка регулярными выражениями.
-## Ссылка на проект
-https://juzlov.github.io/
+
+Fields:
+- Name
+- E-mail
+- Phone number
+- Website(URL)
+
+Validation using HTML regular expressions
+
+## How to start
+
+Follow the link: [Regexp-validation](https://juzlov.github.io/Regexp-validation/)
+
+## Demo
+
+![Page](https://github.com/juzlov/Learn-to-learn/blob/master/images/Regexp-Demo.PNG)
