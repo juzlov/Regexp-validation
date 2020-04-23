@@ -13,6 +13,12 @@ Fields:
 
 Validation using HTML regular expressions
 
+## Used in project
+
+- HTML
+- CSS
+- RegExp
+
 ## How to start
 
 Follow the link: [Regexp-validation](https://juzlov.github.io/Regexp-validation/)
