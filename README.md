@@ -19,4 +19,4 @@ Follow the link: [Regexp-validation](https://juzlov.github.io/Regexp-validation/
 
 ## Demo
 
-![Page](https://github.com/juzlov/Learn-to-learn/blob/master/images/Regexp-Demo.PNG)
+![Page](https://github.com/juzlov/Regexp-validation/blob/master/Regexp-Demo.PNG)
