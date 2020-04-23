@@ -1,5 +1,6 @@
 # Regexp-validation
 Regexp-validation is client **registration form** with validation via regular expressions.
+Developed as part of [Yandex-Praktikum](https://praktikum.yandex.ru/) training program.
 
 Version v1.0.0
 
